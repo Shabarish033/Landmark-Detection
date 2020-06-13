@@ -1,2 +1,3 @@
 # Landmark-Detection
-In this project we will build an app that can identify landmarks on the face. The app identifies a total of 68 landmarks around the face, this type of function is used in many apps such as snapchat, instagram or facebook for applying filters.
+To run the code place the "shape_predictor_68_face_landmarks1.dat", "FacialMarks.py" or "FacialLandmarkDetection.ipynb" in a given folder.
+run the notebook or .py file in the relevant IDE
